@@ -1,7 +1,14 @@
 <script setup>
 // Import your components here:
 
+
+//import Counter from "./components/Counter.vue";
+//import ComputedDemo from "./components/ComputedDemo.vue";
+
+//import TafelSpass from "./components/TafelSpass.vue";
 import TodoList from "./components/TodoList.vue";
+
+
 </script>
 
 <template>
